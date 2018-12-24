@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/sheffmachine/Projects/scala/Finagle/src/main/scala/MyApp.scala:11:22: could not find implicit value for evidence parameter of type com.twitter.app.Flaggable[MyApp.Env][0m
+[0m[[0m[31merror[0m] [0m[0m  val env = flag[Env]("env", Dev, "environment this server runs")[0m
+[0m[[0m[31merror[0m] [0m[0m                     ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
