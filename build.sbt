@@ -8,5 +8,6 @@ organization := "com.sheffmachine.finagle"
 
 libraryDependencies ++= Seq(
   "com.twitter" %% "finagle-http" % "18.12.0",
+  "com.twitter" %% "finagle-mux" % "18.12.0",
   "com.twitter" %% "scrooge-core" % "18.12.0"
 )

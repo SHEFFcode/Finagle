@@ -1,6 +1,8 @@
-//resolvers += "twitter-repo" at "https://maven.twttr.com"
-//resolvers += "scrooge-sbt-plugin" at "https://bintray.com"
-//resolvers += "bintray" at "https://dl.bintray.com/twittercsl/sbt-plugins"
+/**
+  * See this for Scrooge installation solution: https://stackoverflow.com/questions/29404557/cant-resolve-to-plugin-published-in-bintray
+  */
+
+
 
 resolvers += Resolver.url(
   "bintray-twittercsl-sbt-plugins",
